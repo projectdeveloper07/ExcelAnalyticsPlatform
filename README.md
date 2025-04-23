@@ -59,5 +59,5 @@ Backend:
 Clone this repo:
 
 ```bash
-git clone https://github.com/your-username/excel-analytics-platform.git
-cd excel-analytics-platform
+https://github.com/projectdeveloper07/ExcelAnalyticsPlatform.git
+cd ExcelAnalyticsPlatform
